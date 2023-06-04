@@ -1,0 +1,32 @@
+button {
+  padding: 0 1em;
+}
+
+.wrapper {
+  display: flex;
+  flex-flow: column nowrap;
+  padding: 5em 5em;
+}
+
+.table {
+  width: 100%;
+}
+
+.button-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.current-page {
+  padding: 1em;
+}
+
+.date-picker-container {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 1em 0;
+}
+
+.btn {
+  border-color: black;
+}
